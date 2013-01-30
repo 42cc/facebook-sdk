@@ -2,6 +2,13 @@
 Facebook Python SDK
 ===================
 
+
+Why is it forked?
+=================
+this fork uses django urlencode methods to support unicode in urls
+
+Description
+===========
 This client library is designed to support the `Facebook Graph API`_ and the
 official `Facebook JavaScript SDK`_, which is the canonical way to implement
 Facebook authentication. You can read more about the Graph API by accessing its
